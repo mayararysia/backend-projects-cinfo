@@ -2,11 +2,13 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "json-server --watch database.json --port 3000"
+    "start": "node server.js"
   },
-  "keywords": [],
+  "keywords": [
+    "json-server, heroku, REST API"
+  ],
   "author": "www.mayararysia.com",
   "license": "ISC",
   "dependencies": {
