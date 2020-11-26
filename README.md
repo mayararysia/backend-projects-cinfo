@@ -1,6 +1,10 @@
 # backend-projects-cinfo
 
-REST API - json-server backend that simulates a database for the discipline of Introduction to Web Technologies - BSI IFAL
+* REST API - json-server backend that simulates a database for the discipline of Introduction to Web Technologies - BSI IFAL
+
+* The heroku branch contains data that may be out of date. If you are a student of the course and are interested in a project, look for the responsible teacher to check the status of the project.
+
+## [CLOUD DEPLOYMENT](https://backend-projects-cinfo.herokuapp.com/projects)
 
 ## How to use it?
 
