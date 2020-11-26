@@ -4,6 +4,10 @@
 
 * The content of the data may be out of date, if you are a student of the course and are interested in a project, look for the responsible teacher to check the status of the project.
 
+* This branch was deployed to heroku
+
+## [CLOUD DEPLOYMENT](https://backend-projects-cinfo.herokuapp.com/projects)
+
 ## How to use it?
 
 * Clone the project or download
@@ -19,4 +23,4 @@ npm install
 npm start
 ```
 
-* Open Postman and test the routes on Port 3000. For example `http://localhost:3000/projects`
+* Open Postman and test the routes on Port 3000. For example `http://localhost:4000/projects`
