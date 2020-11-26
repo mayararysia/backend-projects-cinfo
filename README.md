@@ -1,6 +1,8 @@
 # backend-projects-cinfo
 
-REST API - json-server backend that simulates a database for the discipline of Introduction to Web Technologies - BSI IFAL
+* REST API - json-server backend that simulates a database for the discipline of Introduction to Web Technologies - BSI IFAL
+
+* The content of the data may be out of date, if you are a student of the course and are interested in a project, look for the responsible teacher to check the status of the project.
 
 ## How to use it?
 

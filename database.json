@@ -2,30 +2,94 @@
   "projects": [
     {
       "id": 1,
-      "name": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
-      "description": "Mussum Ipsum, cacilds vidis litro abertis. Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget. Si num tem leite então bota uma pinga aí cumpadi! Quem num gosta di mé, boa gentis num é. Nullam volutpat risus nec leo commodo, ut interdum diam laoreet. Sed non consequat odio.",
-      "professor": "Aurora Sinistra",
-      "students": "Hermione Jean Granger",
-      "period": "2017-2019",
-      "status": "Concluído"
+      "name": "Criação de um Data Warehouse dos Dados Abertos Para Disponibilização um Infraestrutura que Permita o Monitoramento dos Gastos Públicos: Um Estudo dos Dados Governamentais Abertos do Estado de Alagoas",
+      "description": "O apresenta uma proposta de criação de um Data Warehouse dos Dados Abertos Para Disponibilização de um Infraestrutura que Permita o Monitoramento dos Gastos Públicos. Esta proposta prevê uma melhor transparência de informações dos municipais e estaduais para auxilio em pesquisas de políticas públicas, ciências políticas se também auditoria e participação cidadã",
+      "professor": "Leonardo Medeiros",
+      "students": "",
+      "period": "",
+      "status": ""
     },
     {
       "id": 2,
-      "name": "Dui nunc mattis enim ut tellus. Tortor aliquam nulla facilisi cras. Bibendum ut tristique et egestas.",
-      "description": "Mussum Ipsum, cacilds vidis litro abertis. Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget. Si num tem leite então bota uma pinga aí cumpadi! Quem num gosta di mé, boa gentis num é. Nullam volutpat risus nec leo commodo, ut interdum diam laoreet. Sed non consequat odio.",
-      "professor": "Aurora Sinistra",
-      "students": "Hermione Jean Granger",
-      "period": "2017-2021",
-      "status": "Em Andamento"
+      "name": "Sistema de monitoramento do progresso da doença de parkinson usando acelerometria aplicada em aprendizagem de máquina supervisionada: uma análise do sinal de tremor",
+      "description": "A doença de Parkinson (DP) é uma doença crônica, neurodegenerativa e progressiva, não possui diagnóstico específico, sendo este realizado pelo neurologista através de analise clínica dos sinais e resposta positiva ao tratamento. A DP é mais comum em pessoas acima dos 50 anos, afetando aproximadamente 10 milhões de pessoas ao redor do mundo. O sintoma mais evidente da DP é o tremor de repouso. Tendo em vista a diminuição mundial de leitos hospitalares, sistemas de monitoramento da saúde (SMS) tem se tornado cada vez mais populares. Sistemas de monitoramento da saúde são ferramentas médicas que possibilitam o acompanhamento a distância do progresso da doença nos pacientes. Os principais desafios no desenvolvimento de um SMS eficaz são fazer com que o sistema seja integrado na rotina do paciente e construir o sistema de forma que não seja invasivo ao paciente. Sabendo disto, iremos dar prosseguimento no desenvolvimento de um SMS baseado em smartphone, não invasivo e integrado a rotina do paciente, focado na identificação, análise, quantificação e classificação do tremor Parkinsoniano, além de uma plataforma de acompanhamento do SMS para os médicos. Estas soluções em conjunto podem levar a um melhor entendimento do progresso da doença de Parkinson além de possibilitar aos médicos um controle eficaz da dosagem medicamentosa, reduzindo os efeitos colaterais e melhorando a qualidade de vida dos pacientes.",
+      "professor": "Leonardo Medeiros",
+      "students": "",
+      "period": "",
+      "status": ""
     },
     {
       "id": 3,
-      "name": "Cras adipiscing enim eu turpis. Dolor sit amet consectetur adipiscing.",
-      "description": "Mussum Ipsum, cacilds vidis litro abertis. Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget. Si num tem leite então bota uma pinga aí cumpadi! Quem num gosta di mé, boa gentis num é. Nullam volutpat risus nec leo commodo, ut interdum diam laoreet. Sed non consequat odio.",
-      "professor": "Aurora Sinistra",
-      "students": "Hermione Jean Granger",
-      "period": "2017-2021",
-      "status": "Em Andamento"
+      "name": "Desenvolvimento De Dispositivos De Automação Residencial Conectados À Internet (Internet Of Things) De Baixo Custo",
+      "description": "",
+      "professor": "Tárcio R. Bezerra",
+      "students": "",
+      "period": "",
+      "status": ""
+    },
+    {
+      "id": 4,
+      "name": "Refatoramentos Para Remover Bad Smells Em Projetos De Código Aberto: Um Estudo Empírico",
+      "description": "O projeto tem como principal objetivo (1) a implementação de uma ferramenta para remover bad smells em código fonte escrito na linguagem C e (2) a execução de um estudo empírico com projetos de código aberto para validar os refatoramentos. Em um trabalho anterior, identificamos uma série de bad smells que geram problemas de entendimento de código segundo a opinião dos desenvolvedores (os resultados foram obtidos a partir da aplicação de uma survey). A remoção de bad smells de forma manual é uma tarefa demorada e propícia a introdução de erros. Assim, a implementação dos refatoramentos é fundamental para a execução do estudo, uma vez que será possível refatorar o código de forma automática. O resultado do estudo é importante para revalidar os bad smells através de uma estudo empírico (recebendo feedback de desenvolvedores reais com a submissão de patches) e para melhorar da qualidade do código fonte de projetos de código aberto, contribuindo com a redução de bad smells no código e alertando os desenvolvedores para evitarem bad smells na prática.",
+      "professor": "Flávio Medeiros",
+      "students": "",
+      "period": "",
+      "status": ""
+    },
+    {
+      "id": 5,
+      "name": "Uma Comparação De Algoritmos De Sampling Para Sistemas Configuráveis: Introduzindo Algoritmos Genéticos No Estudo Comparativo",
+      "description": "Diversos sistemas de software fornecem opções de configuração para adaptar o sistema para diferentes plataformas ou para realizar customizações do usuário. Por exemplo, o Kernel do Linux, que roda em diferentes dispositivos, incluindo computadores, tablets, celulares, etc. Em muitos casos, como no Kernel do Linux com mais 12 mil opções de configuração, fica impossível testar cada configuração individualmente. Para solucionar esse problema, muitos autores propuseram a utilização de algoritmos de sampling para selecionar amostras de configurações para serem testadas. Em um trabalho anterior, realizamos uma comparação de 10 algoritmos de sampling e concluímos que os algoritmos mais eficientes para detectar bugs não escalam na prática. No trabalho atual, temos como objetivo principal adicionar algoritmos genéticos ao estudo comparativo para verificar sua eficiência na detecção de bugs e sua escalabilidade para testar projetos reais como o Kernel do Linux.",
+      "professor": "Flávio Medeiros",
+      "students": "",
+      "period": "",
+      "status": ""
+    },
+    {
+      "id": 6,
+      "name": "Um Ambiente Virtual Para O Ensino De Programação Com Técnicas De Gamificação",
+      "description": "O projeto tem como objetivo criar um ambiente de ensino integrado para alunos de programação. Em um único canal de comunicação, os alunos terão acesso a explicações com texto ilustrativos, exemplos práticos, imagens, vídeos, animações, atividades e chats com os professores. Diferentes estratégias de ensino serão utilizadas para que os alunos consigam entender os conteúdos da forma mais eficiente de acordo com o seu perfil. Para motivar a interação dos alunos com o ambiente, técnicas de gamificação serão utilizadas, e os alunos ganharão moedas e medalhas ao realizarem ações que ajudem nas atividades de ensino e aprendizagem, como: responder um exercício, perguntar algo ao professor, compartilhar uma mensagem no ambientse, entre outras. A motivação do ambiente visa reduzir os altos índices de reprovação na disciplina.",
+      "professor": "Flávio Medeiros",
+      "students": "",
+      "period": "",
+      "status": ""
+    },
+    {
+      "id": 7,
+      "name": "Avaliação De Interface De Aplicativos E Jogos Voltados Para Alfabetização De Crianças Com Autismo Com Base Nas Premissas Do Design Centrado No Usuário",
+      "description": "Os jogos e aplicativos estão cada vez mais presentes na alfabetização das crianças com desenvolvimento típico. Contudo, necessitam de adequações nas interfaces para que possam atender as reais necessidades de crianças com deficiência, como é o caso de pessoas com autismo. Nesse sentido, o objetivo desta pesquisa é analisar os aplicativos desenvolvidos para pessoas com autismo no âmbito nacional, à luz das premissas do Design Centrado no Usuário (DCU), a fim de verificar se algum(ns) dele(s), voltados a alfabetização de pessoas com Transtorno do Espectro do Autismo (TEA), foram construídos segundo essa abordagem. Inicialmente será realizada uma pesquisa bibliográfica, de cunho qualitativo, para efetuar a seleção de aplicativos nacionais que estejam disponibilizados de forma gratuita na loja virtual do Google (Google Play) e posteriormente uma análise de conteúdo para identificar aspectos inerentes a construção destes aplicativos. Espera-se, como resultado deste projeto, que sejam feitas contribuições baseadas no Design Centrado no Usuário para aumentar a performance junto a qualidade da aplicação, visando estimular o interesse da criança com TEA pelo processo de alfabetização e também a elaboração de um esboço para o futuro desenvolvimento de uma aplicação voltada para este público totalmente centrada no usuário.",
+      "professor": "Mônica Ximenes",
+      "students": "",
+      "period": "",
+      "status": ""
+    },
+    {
+      "id": 8,
+      "name": "Uso De Tecnologias Educacionais Digitais Para Sensibilização E Orientação Sobre O Descarte Ambientalmente Adequado De Lixo Eletrônico",
+      "description": "",
+      "professor": "Mônica Ximenes",
+      "students": "",
+      "period": "2020-2021",
+      "status": "Em andamento"
+    },
+    {
+      "id": 9,
+      "name": "Teagram: Um Jogo Sério Para Auxiliar O Ensino De Habilidades Iniciais De Matemática Para Crianças Com O Transtorno Do Espectro Autista Utilizando Tangram",
+      "description": "",
+      "professor": "Mônica Ximenes",
+      "students": "",
+      "period": "2020-2021",
+      "status": "Em andamento"
+    },
+    {
+      "id": 10,
+      "name": "Moobi Verde: Bicicletários Inteligentes. Uma Forma Inteligente E Sustentável De Mobilidade Por Bicicletas",
+      "description": "",
+      "professor": "Tárcio R.Bezerra",
+      "students": "",
+      "period": "2020-2021",
+      "status": "Em andamento"
     }
+
   ]
 }
